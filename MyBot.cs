@@ -35,7 +35,7 @@ namespace OnePieceDiscoBot
 
             _client.Log += Log;
 
-            await _client.LoginAsync(TokenType.Bot, "MzM3NDY5NDgzODI2NTQ0NjQy.DFKJmA.c_2iHWy1JHYK7H-THJSfTSPuF4Q");
+            await _client.LoginAsync(TokenType.Bot, "******************************");
             await  _client.StartAsync();
 
 
